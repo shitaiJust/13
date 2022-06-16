@@ -1,0 +1,98 @@
+body
+{
+    background-image: url(bg.jpg);
+}
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    margin: 0;
+    padding-left: 0;
+
+}
+.topnav a {
+    float: left;
+    color: grey;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 150px;
+    text-decoration: none;
+    font-size: 30px;
+}
+.topnav a:hover {
+    color: red;
+}
+#logo
+{
+    left: 30%;
+    width: 275px;
+    height:75px ;
+}
+#down
+{
+    float: right;
+    margin-top: 20px;
+    font-size: 25px;
+    border-radius: 50px;
+    margin-right: 230px;
+}
+#bigtext
+{
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 10%;
+    background-color: brown;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 50px;
+    color:white;
+}
+#littletext
+{
+    text-align: center;
+    font-size: 30px;
+    color: azure;
+}
+.another1
+{
+    text-align: center;
+    font-size: 70px;
+    color: azure;
+    margin-right: 1150px;
+    
+}
+.anlittle
+{
+    font-size: 30px;
+}
+.another2
+{
+    text-align: center;
+    font-size: 70px;
+    color: azure;
+    margin-right: 0px;
+    margin-top: -155px;
+    
+}
+.another3
+{
+    text-align: center;
+    font-size: 70px;
+    color: azure;
+    margin-right: -1250px;
+    margin-top: -150px;
+    
+}
+#black
+{
+    background-color: black;
+    height: 300px;
+    margin-top: 110px;
+    color: azure;
+}
+#downtext1
+{
+    font-size: 30px;
+    padding-top: 90px;
+    padding-left: 300px;
+}
